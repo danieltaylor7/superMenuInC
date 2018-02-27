@@ -11,4 +11,4 @@ I learned the following git commands:
 * git pull: to pull changes from server
 * git push: to push your changes to the server
 * git clone: to clone an existing repository
-Wow, that is cool :+1 :metal :octocat
+Wow, that is cool :+1: :metal: :octocat:
